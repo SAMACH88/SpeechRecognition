@@ -1,6 +1,6 @@
-streamlit==1.24.0
-speechrecognition==3.8.1
-pyaudio==0.2.11
-pocketsphinx==5.0.0
-numpy==1.25.0
-pillow==10.0.0
+streamlit
+speechrecognition
+pyaudio
+pocketsphinx
+numpy
+pillow
