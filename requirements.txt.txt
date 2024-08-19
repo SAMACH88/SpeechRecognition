@@ -1,6 +1,19 @@
-streamlit
+numpy
+Pillow
 speechrecognition
 pyaudio
 pocketsphinx
-numpy
-pillow
+streamlit-webrtc
+streamlit_option_menu
+easyocr
+streamlit
+opencv-python-headless==4.5.5.64
+Pillow
+mmdet
+mmocr
+paddleocr
+paddlepaddle
+mycolorpy
+plotly
+plotly-express
+mmcv-full --no-binary mmcv-full
